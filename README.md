@@ -58,6 +58,8 @@ Running MCD defense: ```python MCD_detection_metrics.py```
 
 ### VagueGAN
 
+<img src="[https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/tree/master/example/VagueGAN_poisoned_data.png" alt="Alt text" width="80%" /><br><br>
+
 ![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/tree/master/example/VagueGAN_poisoned_data.png)
 
 ### Unsupervised Variant of VagueGAN
