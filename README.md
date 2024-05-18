@@ -58,17 +58,6 @@ Running MCD defense: ```python MCD_detection_metrics.py```
 
 ### VagueGAN
 
-<<<<<<< HEAD
-![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/blob/main/example/VagueGAN poisoned data.png)
-
-### Unsupervised Variant of VagueGAN
-
-![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/blob/main/example/usVagueGAN poisoned data.png)
-
-## Poisoned Model
-
-![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/blob/main/example/poisoned model1.png)
-=======
 ![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/tree/master/example/VagueGAN_poisoned_data.png)
 
 ### Unsupervised Variant of VagueGAN
@@ -78,7 +67,6 @@ Running MCD defense: ```python MCD_detection_metrics.py```
 ## Poisoned Model
 
 ![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/tree/master/example/poisoned_model1.png)
->>>>>>> first commit
 
 ![image](https://github.com/SSssWEIssSS/VagueGAN-Data-Poisoning-Attack-and-Its-Countermeasure/tree/master/example/poisoned_model2.png)
 
