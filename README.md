@@ -54,8 +54,6 @@ Running PCA defense: ```python pca_defense.py```
 
 Running MCD defense: ```python MCD_detection_metrics.py```
 
-## Poisoned Data 
-
 ## Citing
 
 If you find this code helpful to your research, please cite our attack or defense paper:
