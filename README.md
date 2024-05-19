@@ -54,6 +54,10 @@ Running PCA defense: ```python pca_defense.py```
 
 Running MCD defense: ```python MCD_detection_metrics.py```
 
+## Contact
+
+If you have any questions or insights regarding this project, please contact us at ```21120398@bjtu.edu.cn```
+
 ## Citing
 
 If you find this code helpful to your research, please cite our attack or defense paper:
