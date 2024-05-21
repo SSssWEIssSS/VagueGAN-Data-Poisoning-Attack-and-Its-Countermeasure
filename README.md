@@ -4,6 +4,8 @@ Code for the
 
 SECON 2023 paper: [VagueGAN: A GAN-Based Data Poisoning Attack Against Federated Learning Systems](https://ieeexplore.ieee.org/document/10287523)
 
+[A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure](https://arxiv.org/abs/2405.11440)
+
 ## Reference
 
 [Data Poisoning Attacks Against Federated Learning Systems](https://github.com/git-disl/DataPoisoning_FL)
