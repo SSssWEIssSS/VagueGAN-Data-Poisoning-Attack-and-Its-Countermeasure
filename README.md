@@ -81,15 +81,11 @@ If you find this code helpful to your research, please cite our attack or defens
 or
 
 ```
-@INPROCEEDINGS{10287523,
-  author={Sun, Wei and Gao, Bo and Xiong, Ke and Lu, Yang and Wang, Yuwei},
-  booktitle={2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)}, 
-  title={VagueGAN: A GAN-Based Data Poisoning Attack Against Federated Learning Systems}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={321-329},
-  keywords={Computer aided instruction;Federated learning;Distance learning;Training data;Generative adversarial networks;Data models;Sensors;Fedrated learning(FL);Security and Privacy;Generative Adversarial Networks(GAN)},
-  doi={10.1109/SECON58729.2023.10287523}}
+@article{sun2024vaguegan,
+  title={A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure},
+  author={Wei Sun, Bo Gao, Ke Xiong and Yuwei Wang},
+  journal={arXiv preprint arXiv:2405.11440v2},
+  year={2024}
+}
 
 ```
