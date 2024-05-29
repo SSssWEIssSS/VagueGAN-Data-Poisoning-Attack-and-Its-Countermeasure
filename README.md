@@ -81,11 +81,13 @@ If you find this code helpful to your research, please cite our attack or defens
 or
 
 ```
-@article{sun2024vaguegan,
-  title={A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure},
-  author={Wei Sun, Bo Gao, Ke Xiong and Yuwei Wang},
-  journal={arXiv preprint arXiv:2405.11440v2},
-  year={2024}
+@misc{sun2024ganbased,
+      title={A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure}, 
+      author={Wei Sun and Bo Gao and Ke Xiong and Yuwei Wang},
+      year={2024},
+      eprint={2405.11440},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
 }
 
 ```
